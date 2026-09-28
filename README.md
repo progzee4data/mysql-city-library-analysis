@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="2026-09-28_14-12-19" src="https://github.com/user-attachments/assets/632171ed-7d08-4deb-8388-97c2a9e36e31" />
 # SQL Querying & Data Filtering Analysis: City Library Database
 
 ## Project Overview
