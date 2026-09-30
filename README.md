@@ -112,3 +112,14 @@ FROM
     books
 WHERE
     author LIKE '% M%';
+```
+## 🛠️ Tools & Technologies Used
+Database Management System: MySQL Server 8.0 & MySQL Workbench   
+Language Subsets Applied:
+DQL (Data Query Language): SELECT, Column Aliasing, Comparison Operators, Boolean Filtering (AND, OR, IN), and Wildcard Pattern Matching (LIKE)   
+DDL & DML: Schema creation (CREATE TABLE), and record population (INSERT) via city_library_seed.sql   
+Version Control & Portfolio Platform: GitHub & DataSciencePortfolio.io 
+
+## 📌 Background & Context
+
+This project was completed as part of the ALX Africa Data Science Program to demonstrate practical proficiency in Data Query Language (DQL) and relational database interaction. Using MySQL Workbench and the city_library database, the project focuses on setting up a relational table schema (DDL/DML) and executing structured SELECT queries to perform column aliasing, multi-condition logical filtering (AND/OR/IN), comparison operations, and substring pattern matching (LIKE). Emphasis was placed on evaluating query logic, understanding operator precedence, and analyzing edge cases for real-world portfolio evaluation.
